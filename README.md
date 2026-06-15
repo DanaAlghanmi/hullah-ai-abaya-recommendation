@@ -38,13 +38,13 @@ Full feature breakdown in [`docs/features.md`](docs/features.md).
 
 ## Screenshots
 
-| Home                                    | Measurements                                           | Analysis Loading                                                |
-| --------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Home Interface](screenshots/home.png) | ![Measurments Interface](screenshots/measurment.png) | ![Analysis Loading Interface](screenshots/analysis-loading.png) |
+| Home | Measurements | Analysis Loading |
+|---|---|---|
+| <img src="screenshots/home.png" alt="Home Interface" width="170"/> | <img src="screenshots/measurment.png" alt="Measurements Interface" width="170"/> | <img src="screenshots/analysis-loading.png" alt="Analysis Loading Interface" width="170"/> |
 
-| Abaya Selection                                               | Final Summary                                             |
-| ------------------------------------------------------------- | --------------------------------------------------------- |
-| ![Abaya Selection Interface](screenshots/abaya-selection.png) | ![Final Summary Interface](screenshots/final-summary.png) |
+| Abaya Selection | Final Summary |
+|---|---|
+| <img src="screenshots/abaya-selection.png" alt="Abaya Selection Interface" width="170"/> | <img src="screenshots/final-summary.png" alt="Final Summary Interface" width="170"/> |
 
 ---
 
