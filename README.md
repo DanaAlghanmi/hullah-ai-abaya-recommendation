@@ -40,7 +40,7 @@ Full feature breakdown in [`docs/features.md`](docs/features.md).
 
 | Home | Measurements | Analysis Loading |
 |---|---|---|
-| <img src="screenshots/home.png" alt="Home Interface" width="170"/> | <img src="screenshots/measurment.png" alt="Measurements Interface" width="170"/> | <img src="screenshots/analysis-loading.png" alt="Analysis Loading Interface" width="170"/> |
+| <img src="screenshots/home.png" alt="Home Interface" width="170"/> | <img src="screenshots/Measurement.png" alt="Measurements Interface" width="170"/> | <img src="screenshots/analysis-loading.png" alt="Analysis Loading Interface" width="170"/> |
 
 | Abaya Selection | Final Summary |
 |---|---|
