@@ -36,6 +36,16 @@ Read more in [`docs/problem-statement.md`](docs/problem-statement.md).
 
 Full feature breakdown in [`docs/features.md`](docs/features.md).
 
+## Screenshots
+
+| Home                                    | Measurements                                           | Analysis Loading                                                |
+| --------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Home Interface](screenshots/home.png) | ![Measurments Interface](screenshots/measurment.png) | ![Analysis Loading Interface](screenshots/analysis-loading.png) |
+
+| Abaya Selection                                               | Final Summary                                             |
+| ------------------------------------------------------------- | --------------------------------------------------------- |
+| ![Abaya Selection Interface](screenshots/abaya-selection.png) | ![Final Summary Interface](screenshots/final-summary.png) |
+
 ---
 
 ## 🏗️ System Architecture (High Level)
